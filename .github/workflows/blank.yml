@@ -1,0 +1,42 @@
+{
+  "FantomRock": {
+    "name": "Unique FantomRock #0",
+    "image": "https://fantomrock.com/img/tokens/0.png"
+  }
+}
+Copy
+{
+  "Fantompunks": {
+    "name": "FantomPunks",
+    "description": "FantomPunks are a collection of unique punks built on the Fantom Opera blockchain. Each punk is human assembled.",
+    "image": "https://gateway.pinata.cloud/ipfs/Qmb2Q8yGj8pwDvrcptB3wgF88s5QqujPuBSMAK5oPf3hQB"
+  }
+} 
+Copy
+ {
+   "Fantums": {
+    "id": 10700,
+    "name": "AURELIA TAWWATER",
+    "description": "Common (30) Fantum #10700, Ranked 10506.",
+    "image": "https://api.fantums.com/token/img/0x00000001a900511705061b49d6ef2e0f213c09095f62279ac96543cd56415058.png",
+    "image32": "https://api.fantums.com/token/img32/0x00000001a900511705061b49d6ef2e0f213c09095f62279ac96543cd56415058.png",
+    "price": "0",
+    "hash": "0x00000001a900511705061b49d6ef2e0f213c09095f62279ac96543cd56415058",
+    "owner": "0x8c1063D7674BD0B036cf471A48B11406843e4298",
+    "rarity": 10506,
+    "rScore": 30,
+    "rarityName": "Common",
+    "level": 1,
+    "dead": false,
+    "has_died": false,
+    "former_owner": "0x8c1063D7674BD0B036cf471A48B11406843e4298",
+    "lwtdk": [0, 0, 0, 0, 0],
+    "elo": 0,
+    "summoner": false,
+    "atDayCare": false,
+    "parentOfFum": false,
+    "totalFantums": "10860",
+    "receivedCandy": false
+  }
+}  
+
